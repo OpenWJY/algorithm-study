@@ -3,6 +3,7 @@ package org.yjw.tree.base;
 /**
  * @author yjw
  * @date 2022/6/8
+ * 节点 - 用于构建树
  */
 public class TreeNode {
     public TreeNode left;
